@@ -1,0 +1,2 @@
+# AzureTemplates
+AzureTemplates
